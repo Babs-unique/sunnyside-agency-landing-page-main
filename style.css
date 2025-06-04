@@ -677,6 +677,24 @@ footer h3{
     }
     } 
 }
+@media (min-width:769px)  and (max-width:1024px){
+        .arrow{
+        display: block;
+        top: 45%;
+        width: 30px;
+        height: 120px;
+        left: 48.5%;
+    } 
+}
+@media (min-width:1025px)  and (max-width:1440px){
+        .arrow{
+        display: block;
+        top: 44%;
+        width: 30px;
+        height: 120px;
+        left: 49%;
+    } 
+}
 
 
 /*Navigation Animation*/
